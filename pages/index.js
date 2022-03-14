@@ -8,8 +8,8 @@ const Home = () => (
 			<title>Home</title>
 			<link rel="icon" href="/favicon.ico" />
 		</Head>
-		<h1>Hello World</h1>
 		<Nav />
+		<h1 style={{ color: "red", textAlign: "center" }}>Hello World</h1>
 	</div>
 );
 
