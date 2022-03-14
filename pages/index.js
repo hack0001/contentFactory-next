@@ -9,7 +9,7 @@ const Home = () => (
 			<link rel="icon" href="/favicon.ico" />
 		</Head>
 		<Nav />
-		<h1 style={{ color: "red", textAlign: "center" }}>Hello World</h1>
+		<h1 style={{ color: "blue", textAlign: "center" }}>Hello World</h1>
 	</div>
 );
 
